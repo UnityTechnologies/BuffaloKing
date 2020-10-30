@@ -1,5 +1,5 @@
 # BuffaloKing
-Buffalo King is a Slot Machine game (demo) showcasing 2D animation and rigging workflows.
+Buffalo King(demo) showcasing 2D animation and rigging workflows.
 
 #### Buffalo Rigged and Animated using Unity and the 2D Animation Package 
 ![](https://github.com/UnityTechnologies/BuffaloKing/blob/main/Recordings/running_003.gif)
