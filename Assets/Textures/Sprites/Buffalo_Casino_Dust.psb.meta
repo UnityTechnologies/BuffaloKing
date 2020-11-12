@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a087226c1b64ac84ea977c8cb9f14ac0
+guid: ef7874a14556b994a9314cfa971cedc3
 ScriptedImporter:
   internalIDToNameTable:
   - first:
@@ -40,7 +40,7 @@ ScriptedImporter:
     sRGBTexture: 1
     spriteMode: 2
     spriteExtrude: 1
-    spriteMeshType: 0
+    spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
     spritePixelsToUnits: 100
@@ -210,7 +210,7 @@ ScriptedImporter:
     spriteName: Layer 1
     isGroup: 0
     parentIndex: -1
-    spriteID: bb15e0aa1eceded40bfa6b44df9e388e
+    spriteID: a4b09b79aa5a3c5408f6039022005c63
     layerID: 2
     mosaicPosition: {x: 4, y: 4}
   characterData:
